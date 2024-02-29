@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👋 Hi, I’m 阿志
-👀 I am engaged in ML, CV, and have an interest in DL and data science.
-📫 How to reach me: 1096568713@qq.com
+-👋 Hi, I’m 阿志
+-👀 I am engaged in ML, CV, and have an interest in DL and data science.
+-📫 How to reach me: 1096568713@qq.com
 
 <!--
 **zzqnot996/zzqnot996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
